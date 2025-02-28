@@ -139,7 +139,7 @@ span {
 .edu {
     text-align: center;
     width: 100%;
-    background-image: url('../Image/back.jpg');
+    background-image: url('back.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
